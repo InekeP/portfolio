@@ -1,0 +1,78 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+
+
+
+
+
+
+
+
+
+
+
+#ext_menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-0 .mbr-navbar__items a {
+  font-family: 'Oswald', sans-serif;
+  font-size: 14px;
+}
+#header4-1 H1 {
+  font-family: 'Oswald', sans-serif;
+}
+#header4-1 P {
+  font-family: 'Oswald', sans-serif;
+  font-size: 12px;
+}
+#header4-1 .btn {
+  font-family: 'Oswald', sans-serif;
+}
+#content5-5 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 46px;
+}
+#content5-5 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-5 .mbr-article {
+  color: #fff;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+#slider-6 H1 {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+#slider-6 P {
+  text-align: center;
+}
+#slider-6 .btn {
+  font-family: 'Oswald', sans-serif;
+}
+#slider-9 H1 {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+#slider-9 P {
+  text-align: center;
+}
+#slider-9 .btn {
+  font-family: 'Oswald', sans-serif;
+}
+#slider-19 H1 {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+#slider-19 .btn {
+  font-family: 'Oswald', sans-serif;
+}
